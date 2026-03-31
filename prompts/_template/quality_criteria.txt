@@ -1,0 +1,17 @@
+# Quality Criteria — [SME NAME]
+# Answer to Q5: Grade an output A, B, or C.
+#
+# Grade A:
+# [WHAT MAKES A GREAT OUTPUT FOR THIS SME]
+#
+# Grade B:
+# [WHAT IS ACCEPTABLE BUT NEEDS EDITING]
+#
+# Grade C:
+# [WHAT FAILS IMMEDIATELY]
+#
+# The criterion that overrides all others:
+# [THE ONE THING THAT, IF IT FAILS,
+#  MAKES EVERYTHING ELSE IRRELEVANT]
+
+[PASTE VERBATIM ANSWER HERE]

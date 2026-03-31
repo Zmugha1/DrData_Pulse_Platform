@@ -1,0 +1,11 @@
+{
+  "_instructions": "Fill from Q20. For each agent — where must it stop and wait for human approval?",
+  "agents": {
+    "AGENT_NAME": {
+      "handoff_trigger": "What condition stops the agent",
+      "return_to_human_condition": "What must happen before it continues",
+      "reason": "Why human must be in the loop here",
+      "worst_case_if_skipped": "What goes wrong if agent acts past this point"
+    }
+  }
+}

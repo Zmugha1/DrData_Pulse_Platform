@@ -1,0 +1,16 @@
+# Edge Case Library — [SME NAME]
+# Answer to Q4: When the obvious recommendation
+# was wrong before you could explain why.
+#
+# Format each case as:
+#
+# CASE N: [Short title]
+# Signal: What did you observe?
+# Common misread: What would most people think?
+# Correct read: What did you actually know?
+# Response: What did you do or say?
+#
+# Add every case the SME describes.
+# These become the AI's exception logic.
+
+[PASTE VERBATIM CASES HERE]

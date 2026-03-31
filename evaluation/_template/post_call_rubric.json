@@ -1,0 +1,24 @@
+{
+  "_instructions": "Fill from Q21 and Q23.",
+  "quality_rubric": {
+    "dimensions": [
+      {
+        "name": "DIMENSION_NAME",
+        "description": "What this measures",
+        "weight": 0.25,
+        "passing_threshold": 0.70
+      }
+    ],
+    "override_criterion": {
+      "name": "THE CRITERION THAT OVERRIDES ALL OTHERS",
+      "description": "If this fails everything else is irrelevant"
+    }
+  },
+  "self_assessment_dimensions": [
+    {
+      "name": "HABIT_TO_IMPROVE",
+      "description": "What the SME wants to get better at",
+      "measurement": "How you would know if they were improving"
+    }
+  ]
+}

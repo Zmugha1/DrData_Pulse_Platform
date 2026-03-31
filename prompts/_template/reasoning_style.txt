@@ -1,0 +1,19 @@
+# Reasoning Style — [SME NAME]
+# Answer to Q1: Walk me through a judgment call
+# that was not obvious.
+#
+# Instructions:
+# Write verbatim. Not your interpretation.
+# Their exact words become the prompt language.
+#
+# What to capture:
+# - What they noticed first
+# - What they weighed
+# - How they decided
+# - What a less experienced practitioner
+#   would have missed
+#
+# This file trains the AI to reason the way
+# this specific expert reasons.
+
+[PASTE VERBATIM ANSWER HERE]

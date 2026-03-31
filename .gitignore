@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+*.db
+prompts/[!_]*/
+skills/[!_]*/
+agents/[!_]*/
+contracts/[!_]*/
+evaluation/[!_]*/
+sme_profile/[!_]*/
+config/[!_]*.json
+!config/verticals/
+!config/config.template.json

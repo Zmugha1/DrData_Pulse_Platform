@@ -1,0 +1,16 @@
+{
+  "_instructions": "Fill from Q6 answer. Break the SME's process into smallest named steps. Each step becomes a skill.",
+  "skills": [
+    {
+      "name": "SKILL_NAME",
+      "description": "One sentence — what it does",
+      "input": "What goes in",
+      "output": "What comes out",
+      "time_required": "How long this takes the SME manually",
+      "judgment_required": "high | medium | low",
+      "automation_candidate": true
+    }
+  ],
+  "highest_time_cost": "SKILL_NAME — why",
+  "highest_judgment_cost": "SKILL_NAME — why"
+}

@@ -1,0 +1,20 @@
+# Zone Signal — [SME NAME]
+# Answer to Q25: Three months from now,
+# how will you know the system is working?
+#
+# Verbatim quote from SME:
+# [PASTE THEIR EXACT WORDS HERE]
+#
+# Three month success criteria:
+# 1. [CRITERION 1]
+# 2. [CRITERION 2]
+# 3. [CRITERION 3]
+#
+# The one thing that would tell them
+# immediately the system is earning its place:
+# [THEIR EXACT WORDS]
+#
+# KPIs for retainer review:
+# [METRIC 1]: target [VALUE]
+# [METRIC 2]: target [VALUE]
+# [METRIC 3]: target [VALUE]

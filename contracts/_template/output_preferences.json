@@ -1,0 +1,13 @@
+{
+  "_instructions": "Fill from Q16 answer. For each output type — does the SME review before saving?",
+  "outputs": {
+    "OUTPUT_TYPE_1": {
+      "approval_mode": "review | auto",
+      "reason": "Why this mode"
+    },
+    "OUTPUT_TYPE_2": {
+      "approval_mode": "review | auto",
+      "reason": "Why this mode"
+    }
+  }
+}

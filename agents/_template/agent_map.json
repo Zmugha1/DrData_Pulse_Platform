@@ -1,0 +1,13 @@
+{
+  "_instructions": "Fill from Q11 answer. Each repeated workflow becomes an agent.",
+  "agents": [
+    {
+      "name": "AGENT_NAME",
+      "trigger": "What starts this workflow",
+      "steps": ["skill_1", "skill_2", "skill_3"],
+      "handoff_point": "Where the human must step in",
+      "output": "What the agent surfaces for review",
+      "automation_value": "Why this should not be manual"
+    }
+  ]
+}

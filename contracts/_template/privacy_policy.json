@@ -1,0 +1,15 @@
+{
+  "_instructions": "Fill from Q19. What must the system never store, reference, or surface?",
+  "excluded_from_outputs": [
+    "FIELD_TYPE_1",
+    "FIELD_TYPE_2"
+  ],
+  "replace_with": {
+    "SENSITIVE_TERM": "neutral_alternative"
+  },
+  "never_reference": [
+    "ITEM_1",
+    "ITEM_2"
+  ],
+  "data_sovereignty": "airgapped — nothing leaves device"
+}

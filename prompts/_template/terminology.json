@@ -1,0 +1,16 @@
+{
+  "_instructions": "Fill from Q2 answer. Write verbatim. These exact words become the AI vocabulary.",
+  "use": [
+    "TERM1 — explanation of what it means",
+    "TERM2 — explanation",
+    "ADD ALL DOMAIN-SPECIFIC TERMS HERE"
+  ],
+  "avoid": [
+    "WORD1 — why it gives wrong impression",
+    "WORD2 — why to avoid",
+    "ADD ALL WORDS TO AVOID HERE"
+  ],
+  "replace_with": {
+    "WORD_TO_AVOID": "preferred_alternative"
+  }
+}
