@@ -1,0 +1,142 @@
+# Dr. Data Decision Intelligence LLC
+# Cursor Rules — Client Deployment Template
+# STZ Framework Governed Build
+# Clone this repo for every new client build.
+# Fill templates. Deploy. Never build from scratch.
+
+## IDENTITY
+
+Builder: Dr. Zubia Mughal, Ed.D.
+Company: Dr. Data Decision Intelligence LLC
+Methodology: Skill Threshold Zone (STZ) Framework
+Purpose: Client deployment template
+Repo: github.com/Zmugha1/DrData_Pulse_Platform
+
+## BUILD PHILOSOPHY
+
+Never build a new client from scratch.
+Always clone DrData_Pulse_Platform.
+Run 25 STZ SME Interview Guide questions.
+Fill template files with verbatim answers.
+Deploy from filled files — not requirements docs.
+Client-specific files NEVER go in this repo.
+Only generic templates go here.
+Client files live in their deployment repo.
+
+## DEPLOYMENT TIERS
+
+The Spark — $1,499 one-time
+  90-minute STZ discovery session
+  Five-page gap analysis + ROI projection
+
+The Pulse — $3,500 build + $199/month
+  Web-based dashboard — localStorage only
+  No server. No cloud. No backend. Ever.
+  No OpenAI. No Anthropic. No hosted DB.
+
+The Vault — $7,500 build + $349/month
+  Desktop app — Tauri v2 — fully airgapped
+  Local AI via Ollama — qwen2.5:7b
+  All five STZ layers operational
+
+The Scale — $499/quarter
+  Vault clients only — 12 months minimum
+  Quarterly strategy + intelligence brief
+
+## TECH STACK BY TIER
+
+PULSE TIER — Web dashboard:
+- React 18 + TypeScript + Vite
+- Tailwind CSS v3 pinned — NEVER v4
+- localStorage ONLY — no exceptions
+- No server. No API. No cloud DB.
+- No Supabase. No Vercel functions.
+- No OpenAI. No Anthropic.
+- Deploys to Netlify on push to main
+
+VAULT TIER — Desktop app:
+- Tauri v2 + React 19 + TypeScript + Vite 5
+- Tailwind CSS v3 pinned — NEVER v4
+- SQLite via tauri-plugin-sql
+- Ollama via invoke() — NEVER fetch()
+- Fully airgapped — nothing leaves machine
+- No cloud DB. No hosted anything.
+
+## STZ BUILD SEQUENCE
+
+Before writing any code:
+1. Run all 25 STZ SME Interview questions
+2. Fill prompts/ from L1 answers
+3. Fill skills/ from L2 answers
+4. Fill agents/ from L3 answers
+5. Fill contracts/ from L4 answers
+6. Fill evaluation/ from L5 answers
+7. Then and only then — start building
+
+STZ layers are build methodology.
+Product tiers are commercial packaging.
+Never confuse them.
+
+## BRAND COLORS — ALL CLIENT BUILDS
+
+Navy:   #2D4459  sidebar, headings
+Teal:   #3BBFBF  primary action, active states
+Mint:   #C8E8E5  borders, backgrounds, badges
+Coral:  #F05F57  critical alerts, danger
+Gold:   #C8974A  warnings, attention
+Slate:  #7A8F95  muted text, labels
+Cream:  #FEFAF6  page backgrounds
+Green:  #3A7D5C  success states
+White:  #FFFFFF  cards, panels
+
+## FIVE PULSE PAGES — EVERY DEPLOYMENT
+
+Every client deployment includes exactly
+these five pages configured for their vertical:
+
+1. Morning Brief — what needs attention today
+2. Business Goals — revenue target tracking
+3. Client Intelligence — every client organized
+4. Health Interventions — signals and responses
+5. My Practice — patterns learned over time
+
+## WRITING RULES
+
+- NO em dashes ever
+- NO generic AI language
+- Every acronym explained on first use
+- Every output sounds like the client expert
+- Not like a template — not like generic AI
+- Glass box always — auditable outputs only
+
+## PROMPT DISCIPLINE
+
+One fix per prompt.
+One file per prompt.
+Always end with: npx tsc --noEmit
+Always git add specific files only.
+NEVER git add .
+Report commit hash only.
+
+## GOVERNANCE — NON-NEGOTIABLE
+
+Every action logged to audit_log.
+Human approval on every output.
+Nothing leaves machine without review.
+HIPAA compliance for healthcare verticals.
+EU AI Act for high-risk verticals.
+PII never in cloud systems.
+Airgapped is the brand. Not a feature.
+
+## WHAT NEVER TO DO
+
+- NEVER use em dashes
+- NEVER build from scratch — always clone
+- NEVER put client files in this repo
+- NEVER use Electron
+- NEVER upgrade Tailwind to v4
+- NEVER use integer IDs
+- NEVER use OpenAI or Anthropic API in products
+- NEVER store client data in cloud
+- NEVER send output without human approval
+- NEVER git add . — always specific files
